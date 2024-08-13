@@ -1,4 +1,5 @@
 venv
 controleestoque.db
 temp.txt
+__pycache__
 *.pyc
